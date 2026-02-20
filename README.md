@@ -2,7 +2,7 @@
 
 I'm Marco, 30 years old guy from Brescia, Italy.  
 I'm currently working as a software engineer Lead at [Bending Spoons](https://github.com/BendingSpoons).  
-Here I'm busy managing Evernote and Harvest as SWE lead.
+Here I'm busy creating, updating, tinkering and doing a bit of everything with [Evernote](https://evernote.com/) and [Harvest](https://www.getharvest.com/) as **SWE lead**.
 
 Previously I was a a Master's student in Computer Engineering.
 
