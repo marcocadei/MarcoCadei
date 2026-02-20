@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Marco, 27 years old guy from Brescia, Italy.  
-I'm currently working as a software engineer at [Bending Spoons](https://github.com/BendingSpoons).  
-Here I'm busy creating some of the most beloved video and photo editors on the App Store.
+I'm Marco, 30 years old guy from Brescia, Italy.  
+I'm currently working as a software engineer Lead at [Bending Spoons](https://github.com/BendingSpoons).  
+Here I'm busy managing Evernote and Harvest as SWE lead.
 
 Previously I was a a Master's student in Computer Engineering.
 
